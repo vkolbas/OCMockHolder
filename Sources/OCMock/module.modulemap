@@ -1,0 +1,5 @@
+module OCMock {
+    umbrella "include/OCMock"
+    export *
+    module * { export * }
+}
